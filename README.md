@@ -1,4 +1,4 @@
-# Analise-Critica-Scrum
+# Análise-Crítica-Scrum
 
 Este repositório conta com uma análise crítica sobre a aplicação Scrum - Case de sucesso FBI
 
